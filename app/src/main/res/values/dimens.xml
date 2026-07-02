@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_marginTop_tv">150dp</dimen>
+    <dimen name="layout_marginTop_et_50">50dp</dimen>
+    <dimen name="layout_marginTop_20">20dp</dimen>
+    <dimen name="margin_start_180">180dp</dimen>
+
+    <dimen name="text_size_tv">25sp</dimen>
+
+    <dimen name="margin_end_16">16dp</dimen>
+
+</resources>

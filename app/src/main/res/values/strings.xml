@@ -2,5 +2,28 @@
     <string name="app_name">TMS_Android</string>
     <string name="lesson_1">Lesson 1</string>
     <string name="lesson1_task1">Task 1</string>
+    <string name="lesson1_task2">Task 2</string>
+    <string name="lesson1_task3">Task 3</string>
+    <string name="lesson1_task4">Task 4</string>
+    <string name="lesson1_task5">Task 5</string>
+    <string name="lesson1_task6">Task 6</string>
     <string name="lesson_2">Lesson 2</string>
+    <string name="android_image">Some android</string>
+    <string name="back">Back</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_phone">Enter your phone</string>
+    <string name="enter_pass">Enter your password</string>
+    <string name="online">Online</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="change_password">Change password</string>
+    <string name="log_out">Log out</string>
+    <string name="download_complete">Download complete</string>
+    <string name="start_download">Start download</string>
+    <string name="loading_text">Loading text</string>
+
 </resources>
