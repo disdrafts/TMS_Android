@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">TMS_Android</string>
+    <string name="lesson2">Lesson 2</string>
+    <string name="task_1">Task 1</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_age">Enter age</string>
+    <string name="open_profile">Open profile</string>
+    <string name="profile">Profile</string>
+    <string name="fill_in_the_fields">Fill in the fields</string>
+    <string name="task_2">Task 2</string>
+    <string name="life_cycle">Life cycle</string>
+    <string name="task_3">Task 3</string>
+    <string name="catalog">Catalog</string>
+    <string name="cart">Cart</string>
+    <string name="home">Home</string>
 </resources>

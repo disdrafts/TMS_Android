@@ -21,6 +21,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".lesson2.task1.Lesson2Task1">
+
+        </activity>
+        <activity android:name=".lesson2.task1.ProfileActivity">
+
+        </activity>
+        <activity android:name=".lesson2.task2.Task2Activity">
+
+        </activity>
+        <activity android:name=".lesson2.task3.Task3Activity">
+
+        </activity>
     </application>
 
 </manifest>
