@@ -27,9 +27,6 @@
         <activity android:name=".lesson1.task1.Lesson1Task1">
 
         </activity>
-        <activity android:name=".TestActivity">
-
-        </activity>
         <activity android:name=".lesson1.task2.Lesson1Task2">
 
         </activity>
