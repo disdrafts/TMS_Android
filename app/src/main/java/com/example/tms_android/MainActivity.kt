@@ -19,17 +19,25 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-
         val btn_les1 = findViewById<Button>(R.id.btn_les1)
         btn_les1.setOnClickListener {
             val intent = Intent(this, MainActivityLesson1::class.java)
             startActivity(intent)
         }
-
-        val btn = findViewById<Button>(R.id.btn)
-        btn.setOnClickListener {
-            val intetn = Intent(this, TestActivity::class.java)
-            startActivity(intetn)
+        val btnTask1 = findViewById<Button>(R.id.btn_task_1)
+        btnTask1.setOnClickListener {
+            val intent = Intent(this, Lesson2Task1::class.java)
+            startActivity(intent)
+        }
+        val btnTask2 = findViewById<Button>(R.id.btn_task_2)
+        btnTask2.setOnClickListener {
+            val intent = Intent(this, Task2Activity::class.java)
+            startActivity(intent)
+        }
+        val btnTask3 = findViewById<Button>(R.id.btn_task_3)
+        btnTask3.setOnClickListener {
+            val intent = Intent(this, Task3Activity::class.java)
+            startActivity(intent)
         }
     }
 }

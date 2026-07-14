@@ -7,7 +7,19 @@
     <string name="lesson1_task4">Task 4</string>
     <string name="lesson1_task5">Task 5</string>
     <string name="lesson1_task6">Task 6</string>
-    <string name="lesson_2">Lesson 2</string>
+    <string name="lesson2">Lesson 2</string>
+    <string name="task_1">Task 1</string>
+    <string name="age">Age</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_age">Enter age</string>
+    <string name="open_profile">Open profile</string>
+    <string name="profile">Profile</string>
+    <string name="fill_in_the_fields">Fill in the fields</string>
+    <string name="task_2">Task 2</string>
+    <string name="life_cycle">Life cycle</string>
+    <string name="task_3">Task 3</string>
+    <string name="catalog">Catalog</string>
+    <string name="cart">Cart</string>
     <string name="android_image">Some android</string>
     <string name="back">Back</string>
     <string name="registration">Registration</string>
@@ -15,7 +27,6 @@
     <string name="phone">Phone</string>
     <string name="password">Password</string>
     <string name="create_account">Create account</string>
-    <string name="enter_name">Enter your name</string>
     <string name="enter_phone">Enter your phone</string>
     <string name="enter_pass">Enter your password</string>
     <string name="online">Online</string>
@@ -25,5 +36,4 @@
     <string name="download_complete">Download complete</string>
     <string name="start_download">Start download</string>
     <string name="loading_text">Loading text</string>
-
 </resources>

@@ -6,7 +6,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
     <Button
         android:id="@+id/btn_les1"
         android:layout_width="match_parent"
@@ -26,11 +25,33 @@
         app:layout_constraintRight_toRightOf="parent"
         />
     <Button
-        android:id="@+id/btn"
+        android:id="@+id/btn_task_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="@string/task_1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-
         />
+    <Button
+        android:id="@+id/btn_task_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/task_2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_task_1"
+        />
+    <Button
+        android:id="@+id/btn_task_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/task_3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_task_2"
+        />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
