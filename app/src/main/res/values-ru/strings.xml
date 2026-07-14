@@ -26,4 +26,16 @@
     <string name="download_complete">Загрузка завершена</string>
     <string name="start_download">Начать загрузку</string>
     <string name="loading_text">Загрузка текста</string>
+    <string name="task_1">Задание 1</string>
+    <string name="age">Возраст</string>
+    <string name="enter_age">Введите возраст</string>
+    <string name="open_profile">Открыть профиль</string>
+    <string name="profile">Профиль</string>
+    <string name="fill_in_the_fields">Заполните поля</string>
+    <string name="task_2">Задание 2</string>
+    <string name="life_cycle">Жизненный цикл</string>
+    <string name="task_3">Задание 3</string>
+    <string name="catalog">Каталог</string>
+    <string name="cart">Корзина</string>
+    <string name="home">Домой</string>
 </resources>

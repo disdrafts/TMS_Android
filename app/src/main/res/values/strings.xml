@@ -7,7 +7,7 @@
     <string name="lesson1_task4">Task 4</string>
     <string name="lesson1_task5">Task 5</string>
     <string name="lesson1_task6">Task 6</string>
-    <string name="lesson2">Lesson 2</string>
+    <string name="lesson_2">Lesson 2</string>
     <string name="task_1">Task 1</string>
     <string name="age">Age</string>
     <string name="enter_name">Enter name</string>
@@ -20,6 +20,7 @@
     <string name="task_3">Task 3</string>
     <string name="catalog">Catalog</string>
     <string name="cart">Cart</string>
+    <string name="home">Home</string>
     <string name="android_image">Some android</string>
     <string name="back">Back</string>
     <string name="registration">Registration</string>
