@@ -21,6 +21,30 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".lesson1.MainActivityLesson1">
+
+        </activity>
+        <activity android:name=".lesson2.MainActivityLesson2">
+
+        </activity>
+        <activity android:name=".lesson1.task1.Lesson1Task1">
+
+        </activity>
+        <activity android:name=".lesson1.task2.Lesson1Task2">
+
+        </activity>
+        <activity android:name=".lesson1.task3.Lesson1Task3">
+
+        </activity>
+        <activity android:name=".lesson1.task4.Lesson1Task4">
+
+        </activity>
+        <activity android:name=".lesson1.task5.Lesson1Task5">
+
+        </activity>
+        <activity android:name=".lesson1.task6.Lesson1Task6">
+
+        </activity>
         <activity android:name=".lesson2.task1.Lesson2Task1">
 
         </activity>
@@ -33,6 +57,7 @@
         <activity android:name=".lesson2.task3.Task3Activity">
 
         </activity>
+
     </application>
 
 </manifest>

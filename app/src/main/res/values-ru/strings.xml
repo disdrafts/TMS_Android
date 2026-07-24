@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMS_Android</string>
+    <string name="lesson_1">Урок 1</string>
+    <string name="lesson1_task1">Задание 1</string>
+    <string name="lesson1_task2">Задание 2</string>
+    <string name="lesson1_task3">Задание 3</string>
+    <string name="lesson1_task4">Задание 4</string>
+    <string name="lesson1_task5">Задание 5</string>
+    <string name="lesson1_task6">Задание 6</string>
+    <string name="lesson_2">Урок 2</string>
+    <string name="android_image">Какой-то андроид</string>
+    <string name="back">Вернуться</string>
+    <string name="registration">Регистрация</string>
+    <string name="name">Имя</string>
+    <string name="phone">Телефон</string>
+    <string name="password">Пароль</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="enter_name">Заполните имя</string>
+    <string name="enter_phone">Заполните телефон</string>
+    <string name="enter_pass">Заполните пароль</string>
+    <string name="online">В сети</string>
+    <string name="dark_mode">Темная тема</string>
+    <string name="change_password">Поменять пароль</string>
+    <string name="log_out">Выйти</string>
+    <string name="download_complete">Загрузка завершена</string>
+    <string name="start_download">Начать загрузку</string>
+    <string name="loading_text">Загрузка текста</string>
+    <string name="task_1">Задание 1</string>
+    <string name="age">Возраст</string>
+    <string name="enter_age">Введите возраст</string>
+    <string name="open_profile">Открыть профиль</string>
+    <string name="profile">Профиль</string>
+    <string name="fill_in_the_fields">Заполните поля</string>
+    <string name="task_2">Задание 2</string>
+    <string name="life_cycle">Жизненный цикл</string>
+    <string name="task_3">Задание 3</string>
+    <string name="catalog">Каталог</string>
+    <string name="cart">Корзина</string>
+    <string name="home">Домой</string>
+</resources>
