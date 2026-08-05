@@ -24,6 +24,16 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         />
+    <Button
+        android:id="@+id/btn_les3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lesson3"
+        app:layout_constraintTop_toBottomOf="@+id/btn_les2"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        />
+
 
 
 

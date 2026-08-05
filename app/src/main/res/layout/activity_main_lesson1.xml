@@ -8,7 +8,7 @@
         android:id="@+id/btn_lesson1_task1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/lesson1_task1"
+        android:text="@string/task_1"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="20dp"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -21,7 +21,7 @@
         app:layout_constraintTop_toBottomOf="@+id/btn_lesson1_task1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        android:text="@string/lesson1_task2"/>
+        android:text="@string/task_2"/>
     <Button
         android:id="@+id/btn_lesson1_task3"
         android:layout_width="match_parent"
@@ -29,7 +29,7 @@
         app:layout_constraintTop_toBottomOf="@+id/btn_lesson1_task2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        android:text="@string/lesson1_task3"
+        android:text="@string/task_3"
         />
     <Button
         android:id="@+id/btn_lesson1_task4"
@@ -38,7 +38,7 @@
         app:layout_constraintTop_toBottomOf="@+id/btn_lesson1_task3"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:text="@string/lesson1_task4"
+        android:text="@string/task_4"
         />
     <Button
         android:id="@+id/btn_lesson1_task5"
@@ -47,7 +47,7 @@
         app:layout_constraintTop_toBottomOf="@+id/btn_lesson1_task4"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:text="@string/lesson1_task5"
+        android:text="@string/task_5"
         />
     <Button
         android:id="@+id/btn_lesson1_task6"
@@ -56,5 +56,5 @@
         app:layout_constraintTop_toBottomOf="@+id/btn_lesson1_task5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:text="@string/lesson1_task6"/>
+        android:text="@string/task_6"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
