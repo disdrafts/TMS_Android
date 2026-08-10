@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TMS_Android</string>
+    <string name="task_1">Задание 1</string>
+    <string name="task_2">Задание 2</string>
+    <string name="task_3">Задание 3</string>
+    <string name="task_4">Задание 4</string>
+    <string name="task_5">Задание 5</string>
+    <string name="task_6">Задание 6</string>
     <string name="lesson_1">Урок 1</string>
-    <string name="lesson1_task1">Задание 1</string>
-    <string name="lesson1_task2">Задание 2</string>
-    <string name="lesson1_task3">Задание 3</string>
-    <string name="lesson1_task4">Задание 4</string>
-    <string name="lesson1_task5">Задание 5</string>
-    <string name="lesson1_task6">Задание 6</string>
     <string name="lesson_2">Урок 2</string>
     <string name="android_image">Какой-то андроид</string>
     <string name="back">Вернуться</string>
@@ -26,16 +26,18 @@
     <string name="download_complete">Загрузка завершена</string>
     <string name="start_download">Начать загрузку</string>
     <string name="loading_text">Загрузка текста</string>
-    <string name="task_1">Задание 1</string>
     <string name="age">Возраст</string>
     <string name="enter_age">Введите возраст</string>
     <string name="open_profile">Открыть профиль</string>
     <string name="profile">Профиль</string>
     <string name="fill_in_the_fields">Заполните поля</string>
-    <string name="task_2">Задание 2</string>
     <string name="life_cycle">Жизненный цикл</string>
-    <string name="task_3">Задание 3</string>
     <string name="catalog">Каталог</string>
     <string name="cart">Корзина</string>
     <string name="home">Домой</string>
+    <string name="lesson3">Урок 3</string>
+    <string name="add_fragment">Добавить фрагмент</string>
+    <string name="number_page">Страница</string>
+    <string name="added_page">Страница добавлена</string>
+    <string name="cancel">Отмена</string>
 </resources>

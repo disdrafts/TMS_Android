@@ -57,6 +57,12 @@
         <activity android:name=".lesson2.task3.Task3Activity">
 
         </activity>
+        <activity android:name=".lesson3.MainActivityLesson3">
+
+        </activity>
+        <activity android:name=".lesson3.task1.Lesson3Task1">
+
+        </activity>
 
     </application>
 

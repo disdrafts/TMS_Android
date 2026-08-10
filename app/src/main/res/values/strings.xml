@@ -1,23 +1,20 @@
 <resources>
     <string name="app_name">TMS_Android</string>
-    <string name="lesson_1">Lesson 1</string>
-    <string name="lesson1_task1">Task 1</string>
-    <string name="lesson1_task2">Task 2</string>
-    <string name="lesson1_task3">Task 3</string>
-    <string name="lesson1_task4">Task 4</string>
-    <string name="lesson1_task5">Task 5</string>
-    <string name="lesson1_task6">Task 6</string>
-    <string name="lesson_2">Lesson 2</string>
     <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="task_3">Task 3</string>
+    <string name="task_4">Task 4</string>
+    <string name="task_5">Task 5</string>
+    <string name="task_6">Task 6</string>
+    <string name="lesson_1">Lesson 1</string>
+    <string name="lesson_2">Lesson 2</string>
     <string name="age">Age</string>
     <string name="enter_name">Enter name</string>
     <string name="enter_age">Enter age</string>
     <string name="open_profile">Open profile</string>
     <string name="profile">Profile</string>
     <string name="fill_in_the_fields">Fill in the fields</string>
-    <string name="task_2">Task 2</string>
     <string name="life_cycle">Life cycle</string>
-    <string name="task_3">Task 3</string>
     <string name="catalog">Catalog</string>
     <string name="cart">Cart</string>
     <string name="home">Home</string>
@@ -37,4 +34,10 @@
     <string name="download_complete">Download complete</string>
     <string name="start_download">Start download</string>
     <string name="loading_text">Loading text</string>
+    <string name="lesson3">Lesson 3</string>
+    <string name="add_fragment">Add fragment</string>
+    <string name="number_page">Page</string>
+    <string name="added_page">Page added</string>
+    <string name="cancel">Cancel</string>
+
 </resources>
