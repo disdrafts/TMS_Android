@@ -8,6 +8,7 @@
     <string name="task_6">Task 6</string>
     <string name="lesson_1">Lesson 1</string>
     <string name="lesson_2">Lesson 2</string>
+    <string name="lesson_4">Lesson 4</string>
     <string name="age">Age</string>
     <string name="enter_name">Enter name</string>
     <string name="enter_age">Enter age</string>
@@ -39,5 +40,7 @@
     <string name="number_page">Page</string>
     <string name="added_page">Page added</string>
     <string name="cancel">Cancel</string>
+    <string name="add_rec">Add element</string>
+    <string name="plug">No element</string>
 
 </resources>

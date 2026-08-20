@@ -9,6 +9,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.tms_android.lesson1.MainActivityLesson1
 import com.example.tms_android.lesson2.MainActivityLesson2
+import com.example.tms_android.lesson20.MainActivityLesson20
 import com.example.tms_android.lesson3.MainActivityLesson3
 
 class MainActivity : AppCompatActivity() {
@@ -34,6 +35,11 @@ class MainActivity : AppCompatActivity() {
         val btnLes3 = findViewById<Button>(R.id.btn_les3)
         btnLes3.setOnClickListener {
             val intent = Intent(this, MainActivityLesson3::class.java)
+            startActivity(intent)
+        }
+        val btnLes4 = findViewById<Button>(R.id.btn_les4)
+        btnLes4.setOnClickListener {
+            val intent = Intent(this, MainActivityLesson20::class.java)
             startActivity(intent)
         }
     }

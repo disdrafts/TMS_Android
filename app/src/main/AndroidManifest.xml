@@ -63,6 +63,12 @@
         <activity android:name=".lesson3.task1.Lesson3Task1">
 
         </activity>
+        <activity android:name=".lesson20.MainActivityLesson20">
+
+        </activity>
+        <activity android:name=".lesson20.task1.Lesson20Task1">
+
+        </activity>
 
     </application>
 
