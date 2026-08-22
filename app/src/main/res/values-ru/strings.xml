@@ -9,6 +9,7 @@
     <string name="task_6">Задание 6</string>
     <string name="lesson_1">Урок 1</string>
     <string name="lesson_2">Урок 2</string>
+    <string name="lesson_4">Урок 4</string>
     <string name="android_image">Какой-то андроид</string>
     <string name="back">Вернуться</string>
     <string name="registration">Регистрация</string>
@@ -40,4 +41,6 @@
     <string name="number_page">Страница</string>
     <string name="added_page">Страница добавлена</string>
     <string name="cancel">Отмена</string>
+    <string name="add_rec">Добавить элемент</string>
+    <string name="plug">Нет элементов</string>
 </resources>
